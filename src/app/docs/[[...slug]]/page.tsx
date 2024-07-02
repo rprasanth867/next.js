@@ -1,3 +1,5 @@
+
+// Catch-all routes
 export default function Docs({params}: {params: {
     slug: string[]
 }}) {
