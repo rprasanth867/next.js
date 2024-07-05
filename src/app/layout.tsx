@@ -1,5 +1,7 @@
 import { Metadata } from "next"
 
+import "./index.css";
+
 
 // Object name should be metadata
 export const metadata: Metadata = {
